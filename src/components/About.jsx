@@ -7,7 +7,7 @@ function About() {
     <>
       <div className="absolute z-[0] w-[60%] h-[60%] -left-[50%] rounded-full blue__gradient" />
       <div className="w-full flex justify-between items-center text-center md:flex-row flex-col sm:mb-16 mb-6 relative-[1] border-b-[1px] border-b-[#3F3E45] text-gradient">
-        <h1 className={styles.heading2}>Featured Properties</h1>
+        <h1 className={styles.heading2}>About RentNest </h1>
       </div>
       <section id="about" className={layout.sectionReverse}>
         <div className={layout.sectionImgReverse}>
