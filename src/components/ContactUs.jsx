@@ -15,7 +15,7 @@ function ContactUs() {
           <div className="mb-6 mr-20 ml-20">
             <label
               htmlFor="name"
-              className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">
+              className="block mb-2 text-sm font-medium text-white dark:text-white">
               Your Name
             </label>
             <input
@@ -28,7 +28,7 @@ function ContactUs() {
           <div className=" mr-20 ml-20">
             <label
               htmlFor="email"
-              className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">
+              className="block mb-2 text-sm font-medium text-white dark:text-white">
               Your email
             </label>
             <input
@@ -41,7 +41,7 @@ function ContactUs() {
           <div className="mb-6 mr-20 ml-20">
             <label
               htmlFor="message"
-              className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">
+              className="block mb-2 text-sm font-medium text-white dark:text-white">
               Your Message
             </label>
             <textarea

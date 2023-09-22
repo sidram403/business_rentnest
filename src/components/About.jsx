@@ -10,14 +10,14 @@ function About() {
         <h1 className={styles.heading2}>About RentNest</h1>
       </div>
       <div className="absolute z-[0] w-[60%] h-[60%] -left-[50%] rounded-full blue__gradient" />
-      <p className={`${styles.paragraph} text-center px-20 mt-5 `}>
+      <p className={`${styles.paragraph} text-center mt-5 `}>
         RentNest is your go-to platform for streamlined and stress-free rental
         experiences. As we work diligently on developing our website, we are
         committed to revolutionizing the rental industry by providing a
         comprehensive solution that caters to the needs of students,
         professionals, and property retailers alike.
       </p>
-      <p className={`${styles.paragraph} text-center px-20 mt-5 `}>
+      <p className={`${styles.paragraph} text-center mt-5 `}>
         Students and professionals often face an arduous journey in search of
         suitable accommodations. The process can be overwhelming,
         time-consuming, and fraught with uncertainty. On the other hand,
@@ -25,7 +25,7 @@ function About() {
         offerings, only to find their hard work going unnoticed in a sea of
         competition.
       </p>
-      <p className={`${styles.paragraph} text-center px-20 mt-5 `}>
+      <p className={`${styles.paragraph} text-center  mt-5 `}>
         At RentNest, we are driven by a single mission: to bridge the gap
         between those seeking homes and those offering them. Our platform acts
         as a direct link that connects individuals with ideal housing options.
