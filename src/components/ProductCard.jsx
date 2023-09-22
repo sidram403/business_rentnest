@@ -22,7 +22,7 @@ function ProductCard({ imgUrl, title, desc }) {
         <div className="flex flex-row justify-center mt-2 mb-2">
           <a href="#home">
             <button className="mt-4 text-black bg-b-gradient  font-semibold py-2 px-4 rounded cursor-pointer">
-              Explore Now
+              View Details
             </button>
           </a>
         </div>
