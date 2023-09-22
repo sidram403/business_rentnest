@@ -1,6 +1,7 @@
 import logo from "./logo.png";
 import quotes from "./quotes.svg";
 import house from "./house.png"
+import house2 from "./house2.png"
 import menu from "./menu.svg";
 import close from "./close.svg";
 import arrowUp from "./arrow-up.svg";
@@ -21,5 +22,6 @@ export {
   linkedin,
   twitter,
   house,
+  house2,
   myPic
 };
