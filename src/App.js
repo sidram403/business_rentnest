@@ -9,6 +9,7 @@ import About from './components/About';
 import Team from './components/Team';
 import ContactUs from './components/ContactUs';
 import Contact from './components/Contact';
+import Location from './components/Location';
 
 function App() {
   return (
@@ -33,6 +34,7 @@ function App() {
           <Team />
           <ContactUs />
           <Contact />
+          <Location />
           <Footer />
         </div>
       </div>

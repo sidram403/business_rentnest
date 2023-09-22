@@ -5,7 +5,7 @@ function Contact() {
   return (
     <section
       className={`${styles.paddingY} ${styles.flexCenter} flex-col relative`}>
-      <div className="absolute z-[0] w-[60%] h-[60%] -left-[50%] rounded-full blue__gradient" />
+      <div className="absolute z-[0] w-[60%] h-[60%] -right-[50%] rounded-full blue__gradient" />
       <div className="w-full flex text-center justify-center items-center md:flex-row flex-col sm:mb-16 mb-6 relative-[1]  border-b-[1px] border-b-[#3F3E45] text-gradient">
         <h1 className={styles.heading2}>Contact</h1>
       </div>
@@ -68,6 +68,11 @@ function Contact() {
             info@rentnest.com
           </h1>
         </div>
+        <a href="/">
+          <button className="mt-4 text-black bg-b-gradient  font-semibold py-2 px-4 rounded cursor-pointer">
+            Contact Us
+          </button>
+        </a>
       </div>
     </section>
   );
