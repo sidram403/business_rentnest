@@ -106,6 +106,12 @@ export const product = [
         title: "Rented Houses",
         desc: "Utilising all the facilities and paying the owner."
     },
+    {
+        id: "p-6",
+        imgUrl: "https://www.roomsoom.com/blog/wp-content/uploads/2019/11/pg1-1.jpg",
+        title: "PG Accommodation",
+        desc: "Utilising PG Accommodation offers fully furnished rooms, high-speed Wi-Fi, 24/7 security, and delicious meals in a convenient location."
+    },
 
 ];
 
