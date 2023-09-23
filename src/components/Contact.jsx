@@ -65,7 +65,7 @@ function Contact() {
             />
           </svg>
           <h1 className="text-white font-poppins font-semibold">
-            info@rentnest.com
+            info@rentnest.in
           </h1>
         </div>
         <a href="/">
