@@ -12,7 +12,7 @@ function ContactUs() {
       </div>
       <div className="flex flex-col justify-center w-full relative-[1]">
         <form className="items-center justify-center">
-          <div className="mb-6 mr-20 ml-20">
+          <div className="md:mr-10 mr-6 md:ml-10 ml-6">
             <label
               htmlFor="name"
               className="block mb-2 text-sm font-medium text-white dark:text-white">
@@ -25,7 +25,7 @@ function ContactUs() {
               required
             />
           </div>
-          <div className=" mr-20 ml-20">
+          <div className="md:mr-10 mr-6 md:ml-10 ml-6">
             <label
               htmlFor="email"
               className="block mb-2 text-sm font-medium text-white dark:text-white">
@@ -38,7 +38,7 @@ function ContactUs() {
               required
             />
           </div>
-          <div className="mb-6 mr-20 ml-20">
+          <div className=" md:mr-10 mr-6 md:ml-10 ml-6">
             <label
               htmlFor="message"
               className="block mb-2 text-sm font-medium text-white dark:text-white">
