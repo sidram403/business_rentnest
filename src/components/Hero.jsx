@@ -11,7 +11,7 @@ function Hero() {
         <div
           className={`flex-1 ${styles.flexStart} flex-col xl:px-0 sm:px-16 px-6`}>
           <div className="flex flex-row justify-between items-center w-full">
-            <h1 className="flex-1 font-poppins font-semibold sm:text-[72px] text-[52px] text-white sm:leading-[100px] leading-[75-px]">
+            <h1 className="flex-1 font-poppins font-semibold sm:text-[64px] text-[52px] text-white sm:leading-[100px] leading-[75-px]">
               Discover <br className="sm:block hidden" />
               Affordable
               <br className="sm:block hidden" />{" "}
@@ -23,7 +23,7 @@ function Hero() {
             in India.
           </h1>
           <p
-            className={`${styles.paragraph} sm:max-w-[420px] max-w-[470px] mt-5`}>
+            className={`${styles.paragraph} sm:max-w-[522px] max-w-[470px] mt-5`}>
             Find your perfect rental house or PG accommodation with RentNest,
             offering quality housing option for students and servicemen.
           </p>
